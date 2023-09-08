@@ -8,6 +8,14 @@ As a senior data analyst at the company, you've been given access to the complet
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
+Analysis
+
+1. This data shows that the most effective drug regimens are Capomulin and Ramicane, indicated by the lowest final tumor volumes in the box plots below. 
+
+2. The study has roughly equal numbers of males and females, as shown in the pie chart below, suggesting a good gender balance amongst the study participants.
+
+3. There is a positive correlation between mouse weight and tumor volume, implying that as the mouse weight increases so does the tumor volume. This can be seen in the scatter plots below. 
+
 Resources
 
 git.bootcampcontent.com/University-of-Adelaide 
